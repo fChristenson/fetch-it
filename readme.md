@@ -9,4 +9,3 @@
 Something has always troubled me about people using jquery,
 if you are only using it for the ajax, why not just build
 your own ajax library?
-# fetch-it
